@@ -1,4 +1,4 @@
-/*global describe, it */
+d/*global describe, it */
 
 const expect = require('chai').expect
 const fs = require('fs')
@@ -128,3 +128,4 @@ describe('arrays', () => {
     })
   })
 })
+done()
